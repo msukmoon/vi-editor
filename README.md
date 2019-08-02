@@ -5,6 +5,10 @@ special version of MARS(MIPS Assembler and Runtime Simulator) that is included i
 this project as "Mars_Spring18.jar" in etc folder. Supplementary documents are provided in the
 doc folder. Source files are in the src folder.
 
+<p align="center">
+  <img src="doc/MyungsukMoon_ViEditor_Screenshot.png" title="MyungsukMoon_ViEditor_Screenshot">
+</p>
+
 ## Getting Started
 
 1. Run "Mars_Spring18.jar" and open src/hw3_main.asm
